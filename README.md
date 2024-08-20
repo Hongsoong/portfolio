@@ -9,7 +9,7 @@
 > - **프로젝트 이름**: Healthcare(WEB)
 > - **프로젝트 목적**: 시대가 거듭 될수록 발전되는 생활방식과 코로나 유행 등 먹고 살기 바빴던 과거의 삶과 달리 현대인들의 건강관리의 중요성은 점점 더 부각되고 있다. 이런한 현대인들의 건강관리에 대한 재평가로 건강관리와 관련한 새로운 시스템의 필요성이 강조된다. 따라서 보기 편하며 접근성이 좋은 일기장 형식의 건강관리 시스템을 개발하고자 한다.
 > - **개발기간** :2023.05.11~2023.06.11 <br>
-![간트차트](https://gi.esmplus.com/sungi211/portfolio/healthcarechart_copy.jpg "healthcarechart")
+~~~ ![간트차트](https://gi.esmplus.com/sungi211/portfolio/healthcarechart_copy.jpg "healthcarechart")
 
 > - **프로젝트 참여 인원**: 4명
 > - **프로젝트 역할 분담** <br>
