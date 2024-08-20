@@ -1,5 +1,5 @@
-# * 📑 HELTHCARE portfolio
-> 홍순기(Hong soongi)의 건강관리(Healthcare) 프로젝트 포트폴리오 입니다. /Hongsoong portfolio
+# * 📑 HEALTHCARE portfolio
+> 홍순기(Hong soongi)의 건강관리(Healthcare) 프로젝트 포트폴리오 입니다. /Hongsoong healthcare system portfolio
 
 # 🤝 Intro
  안녕하십니까. **"도전하는 것을 즐기고. 문제를 해결해가는 과정에서 희열을 느끼는"** 홍순기 입니다. <br>
