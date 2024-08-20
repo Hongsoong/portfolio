@@ -24,5 +24,5 @@
 > - **나의 핵심 역할**: 팀장, Azure서비스 내 MySQL서버 구축, DB설계 및 구현, spring boot 프레임워크 속 gradle 빌드로 기능 구현
 >
 > - Back-end
-> - 
+>> Language : Java <br> Skill : Java, Springboot, Mysql, etc.
 
