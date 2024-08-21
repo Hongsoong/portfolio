@@ -35,7 +35,7 @@
 >
 # ☎️ Contact
 > - email : sungi21@naver.com
-> - github : ![GitHub](https://github.com/Hongsoong)
+> - github : [GitHub](https://github.com/Hongsoong)
 
 
 
