@@ -25,10 +25,10 @@
 >
 > - Back-end
 >> Language : Java <br> Skill : Java, Springboot-framework, Mysql, Apahe Tomcat, JPA, NyBatis, etc. <br>
->> [프로젝트 상세설명(Back-end)](https://github.com/Hongsoong/healthcare-backend)
+>> [프로젝트 코드 및 상세설명(Back-end)](https://github.com/Hongsoong/healthcare-backend)
 > - Front-end
 >> Language : javascript <br> Skill : Vue.js Vuwtify-framework, etc. <br>
->> [프로젝트 상세설명(Front-end)](https://google.com)
+>> [프로젝트 코드 및 상세설명(Front-end)](https://google.com)
 >> <br>
 # 📚 프로젝트 발표자료(PPT)
 > - [발표자료](https://drive.google.com/drive/folders/1SQvXIc9r56BDlCOXp4G4Lr6a-oOyq4SR?usp=sharing)
