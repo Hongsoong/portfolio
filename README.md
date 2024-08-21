@@ -35,7 +35,11 @@
 >
 # ☎️ Contact
 > - email : sungi21@naver.com
-> - github : [GitHub](https://github.com/Hongsoong)
+> - github : [![github](https://img.shields.io/badge/github-%23121011.svg)](https://www.naver.com)
+
+
+))](이동할 URL)
+
 
 
 
