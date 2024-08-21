@@ -33,7 +33,7 @@
 # 📚 프로젝트 발표자료(PPT)
 > - [발표자료](https://drive.google.com/drive/folders/1SQvXIc9r56BDlCOXp4G4Lr6a-oOyq4SR?usp=sharing)
 >
-# Contact
+# ☎️ Contact
 > - email : sungi21@naver.com
 > - github : ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
