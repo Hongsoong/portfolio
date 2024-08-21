@@ -32,3 +32,7 @@
 >> <br>
 # 📚 프로젝트 발표자료(PPT)
 > - [발표자료](https://drive.google.com/drive/folders/1SQvXIc9r56BDlCOXp4G4Lr6a-oOyq4SR?usp=sharing)
+>
+# Contact
+> - email : sungi21@naver.com
+> - github : 
